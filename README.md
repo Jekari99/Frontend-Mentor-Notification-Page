@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-and-interactive-notification-page-xyjLLOBQjs)
 - Live Site URL: [Live Site](https://notification-page-jekari.netlify.app/)
 
 ## My process
